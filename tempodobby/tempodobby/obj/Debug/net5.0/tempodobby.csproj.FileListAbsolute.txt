@@ -1,0 +1,5 @@
+E:\Gabriel\source\repos\tempodobby\tempodobby\obj\Debug\net5.0\tempodobby.csproj.AssemblyReference.cache
+E:\Gabriel\source\repos\tempodobby\tempodobby\obj\Debug\net5.0\tempodobby.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\source\repos\tempodobby\tempodobby\obj\Debug\net5.0\tempodobby.AssemblyInfoInputs.cache
+E:\Gabriel\source\repos\tempodobby\tempodobby\obj\Debug\net5.0\tempodobby.AssemblyInfo.cs
+E:\Gabriel\source\repos\tempodobby\tempodobby\obj\Debug\net5.0\tempodobby.csproj.CoreCompileInputs.cache

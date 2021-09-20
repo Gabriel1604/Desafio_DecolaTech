@@ -1,0 +1,16 @@
+E:\Gabriel\source\repos\combustivel\combustivel\bin\Debug\net5.0\combustivel.exe
+E:\Gabriel\source\repos\combustivel\combustivel\bin\Debug\net5.0\combustivel.deps.json
+E:\Gabriel\source\repos\combustivel\combustivel\bin\Debug\net5.0\combustivel.runtimeconfig.json
+E:\Gabriel\source\repos\combustivel\combustivel\bin\Debug\net5.0\combustivel.runtimeconfig.dev.json
+E:\Gabriel\source\repos\combustivel\combustivel\bin\Debug\net5.0\combustivel.dll
+E:\Gabriel\source\repos\combustivel\combustivel\bin\Debug\net5.0\ref\combustivel.dll
+E:\Gabriel\source\repos\combustivel\combustivel\bin\Debug\net5.0\combustivel.pdb
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\combustivel.csproj.AssemblyReference.cache
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\combustivel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\combustivel.AssemblyInfoInputs.cache
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\combustivel.AssemblyInfo.cs
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\combustivel.csproj.CoreCompileInputs.cache
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\combustivel.dll
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\ref\combustivel.dll
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\combustivel.pdb
+E:\Gabriel\source\repos\combustivel\combustivel\obj\Debug\net5.0\combustivel.genruntimeconfig.cache

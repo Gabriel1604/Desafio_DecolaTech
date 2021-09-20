@@ -1,0 +1,16 @@
+E:\Gabriel\source\repos\numimpar\numimpar\bin\Debug\net5.0\numimpar.exe
+E:\Gabriel\source\repos\numimpar\numimpar\bin\Debug\net5.0\numimpar.deps.json
+E:\Gabriel\source\repos\numimpar\numimpar\bin\Debug\net5.0\numimpar.runtimeconfig.json
+E:\Gabriel\source\repos\numimpar\numimpar\bin\Debug\net5.0\numimpar.runtimeconfig.dev.json
+E:\Gabriel\source\repos\numimpar\numimpar\bin\Debug\net5.0\numimpar.dll
+E:\Gabriel\source\repos\numimpar\numimpar\bin\Debug\net5.0\ref\numimpar.dll
+E:\Gabriel\source\repos\numimpar\numimpar\bin\Debug\net5.0\numimpar.pdb
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\numimpar.csproj.AssemblyReference.cache
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\numimpar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\numimpar.AssemblyInfoInputs.cache
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\numimpar.AssemblyInfo.cs
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\numimpar.csproj.CoreCompileInputs.cache
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\numimpar.dll
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\ref\numimpar.dll
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\numimpar.pdb
+E:\Gabriel\source\repos\numimpar\numimpar\obj\Debug\net5.0\numimpar.genruntimeconfig.cache

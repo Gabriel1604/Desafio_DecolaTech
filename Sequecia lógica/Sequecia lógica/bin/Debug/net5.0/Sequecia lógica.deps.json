@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sequecia lógica/1.0.0": {
+        "runtime": {
+          "Sequecia lógica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sequecia lógica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

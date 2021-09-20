@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\bin\Debug\net5.0\Conversãotempo.exe
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\bin\Debug\net5.0\Conversãotempo.deps.json
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\bin\Debug\net5.0\Conversãotempo.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\bin\Debug\net5.0\Conversãotempo.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\bin\Debug\net5.0\Conversãotempo.dll
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\bin\Debug\net5.0\ref\Conversãotempo.dll
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\bin\Debug\net5.0\Conversãotempo.pdb
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\Conversãotempo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\Conversãotempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\Conversãotempo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\Conversãotempo.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\Conversãotempo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\Conversãotempo.dll
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\ref\Conversãotempo.dll
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\Conversãotempo.pdb
+C:\Users\Gabriel\source\repos\Conversãotempo\Conversãotempo\obj\Debug\net5.0\Conversãotempo.genruntimeconfig.cache

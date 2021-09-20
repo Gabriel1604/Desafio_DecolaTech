@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\notas\notas\bin\Debug\net5.0\notas.exe
+C:\Users\Gabriel\source\repos\notas\notas\bin\Debug\net5.0\notas.deps.json
+C:\Users\Gabriel\source\repos\notas\notas\bin\Debug\net5.0\notas.runtimeconfig.json
+C:\Users\Gabriel\source\repos\notas\notas\bin\Debug\net5.0\notas.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\notas\notas\bin\Debug\net5.0\notas.dll
+C:\Users\Gabriel\source\repos\notas\notas\bin\Debug\net5.0\ref\notas.dll
+C:\Users\Gabriel\source\repos\notas\notas\bin\Debug\net5.0\notas.pdb
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\notas.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\notas.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\notas.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\notas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\notas.dll
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\ref\notas.dll
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\notas.pdb
+C:\Users\Gabriel\source\repos\notas\notas\obj\Debug\net5.0\notas.genruntimeconfig.cache
